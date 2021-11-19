@@ -7,6 +7,13 @@ body {
   line-height: 1.8em;
 }
 
+.botao {
+  background-color: #750442;
+  color: #ccc;
+  border-radius: 10px 0;
+  font-size: 17px;
+  font-family: 'Courier New', Courier, monospace;
+}
 
 a {
   color: #75154a;
